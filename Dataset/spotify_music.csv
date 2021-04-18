@@ -1,0 +1,192 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Scream,1,2BU4dK1fu1CFLjTBz7ju7Q,This Place Hotel (a.k.a. Heartbreak Hotel),spotify:track:2BU4dK1fu1CFLjTBz7ju7Q,0.243,0.731,0.851,0.000142,0.117,-4.085,0.103,97.005,0.582,56
+1,Scream,2,7azo4rpSUh8nXgtonC6Pkq,Thriller,spotify:track:7azo4rpSUh8nXgtonC6Pkq,0.0816,0.764,0.887,0.000108,0.847,-3.725,0.0738,118.421,0.721,68
+3,Scream,4,6A4Jc8npNo79BOgsrPptLA,Somebody's Watching Me - Single Version,spotify:track:6A4Jc8npNo79BOgsrPptLA,0.0409,0.767,0.712,8.08e-05,0.132,-4.128,0.0324,124.091,0.804,69
+4,Scream,5,4FC7GMnGwYeAjuvC83Srbs,Dirty Diana - 2012 Remaster,spotify:track:4FC7GMnGwYeAjuvC83Srbs,0.178,0.734,0.801,0.000401,0.324,-4.525,0.0437,131.424,0.331,63
+5,Scream,6,0XOuVAHsANAWw0LF0Yxkw5,Torture,spotify:track:0XOuVAHsANAWw0LF0Yxkw5,0.0179,0.754,0.836,2.53e-06,0.35,-4.703,0.0425,131.131,0.965,55
+6,Scream,7,7zILPDxYcUt7AFslua0mc5,Leave Me Alone - 2012 Remaster,spotify:track:7zILPDxYcUt7AFslua0mc5,0.333,0.844,0.964,0.00329,0.0743,-3.262,0.137,123.574,0.656,60
+7,Scream,8,46576CnmgT6xr0RaZNF2Kt,Scream,spotify:track:46576CnmgT6xr0RaZNF2Kt,0.0981,0.782,0.965,1.09e-05,0.251,-3.894,0.115,106.529,0.546,58
+11,Scream,12,0YzDJ3Jm9EMjAD28vefkyH,Threatened,spotify:track:0YzDJ3Jm9EMjAD28vefkyH,0.216,0.843,0.739,0.0,0.362,-4.196,0.239,97.02,0.41,40
+12,Scream,13,2JzcEEYul9ngmGGPzvFVNL,Ghosts,spotify:track:2JzcEEYul9ngmGGPzvFVNL,0.0395,0.819,0.928,2.77e-05,0.618,-4.155,0.139,103.223,0.769,47
+13,Scream,14,2H89IUBV4rAmzOmTShrxRL,Blood On The Dance Floor X Dangerous (The White Panda Mash-Up),spotify:track:2H89IUBV4rAmzOmTShrxRL,0.261,0.743,0.924,0.0,0.394,-3.041,0.12,110.041,0.548,44
+15,XSCAPE,2,5BKKy9fIJL5uM9fz1SnqyP,Chicago,spotify:track:5BKKy9fIJL5uM9fz1SnqyP,0.0784,0.608,0.756,0.0,0.187,-2.675,0.176,176.086,0.55,47
+16,XSCAPE,3,4T1JlEsHdrxGxBltSFe5yA,Loving You,spotify:track:4T1JlEsHdrxGxBltSFe5yA,0.0997,0.711,0.744,1.91e-05,0.147,-4.007,0.068,94.523,0.676,48
+17,XSCAPE,4,35SI5zFEhOeo4XDBMwS41S,A Place With No Name,spotify:track:35SI5zFEhOeo4XDBMwS41S,0.0103,0.538,0.698,3.45e-06,0.134,-4.282,0.305,118.752,0.424,56
+18,XSCAPE,5,4h5KB1btt2aZBq9EJHmWF4,Slave to the Rhythm,spotify:track:4h5KB1btt2aZBq9EJHmWF4,0.146,0.739,0.96,3.68e-05,0.38,-2.293,0.0581,125.02,0.722,52
+19,XSCAPE,6,3Is1bUS1YtytSOfLk8892G,Do You Know Where Your Children Are,spotify:track:3Is1bUS1YtytSOfLk8892G,0.0582,0.648,0.814,0.0,0.0799,-2.968,0.0487,99.989,0.354,42
+20,XSCAPE,7,36lVpg8hgy37iZEazTOJBb,Blue Gangsta,spotify:track:36lVpg8hgy37iZEazTOJBb,0.177,0.624,0.701,0.0,0.0506,-4.122,0.0527,124.047,0.327,44
+21,XSCAPE,8,0xzSpvDboL5Imo8cP1vMXm,Xscape,spotify:track:0xzSpvDboL5Imo8cP1vMXm,0.0496,0.773,0.83,2.79e-05,0.246,-3.735,0.0421,110.01,0.412,48
+22,XSCAPE,9,7DciyLZWipMv860LBeupmK,Love Never Felt So Good (Original Version),spotify:track:7DciyLZWipMv860LBeupmK,0.828,0.608,0.427,2.96e-06,0.078,-9.233,0.032,120.435,0.58,48
+23,XSCAPE,10,3yNhWgz57tAUFGQm2btQ56,Chicago (Original Version),spotify:track:3yNhWgz57tAUFGQm2btQ56,0.12,0.6,0.857,0.00849,0.115,-4.19,0.0284,164.058,0.827,40
+24,XSCAPE,11,5Yo0Jz7YDAEPKsklNfQTA6,Loving You (Original Version),spotify:track:5Yo0Jz7YDAEPKsklNfQTA6,0.327,0.69,0.65,0.000492,0.178,-6.767,0.0448,94.899,0.635,41
+25,XSCAPE,12,4ou1FyPwLpzeOU3YjeQ4Mw,A Place With No Name (Original Version),spotify:track:4ou1FyPwLpzeOU3YjeQ4Mw,0.176,0.876,0.804,0.0,0.0852,-3.727,0.061,118.752,0.888,43
+26,XSCAPE,13,5L4dOpoWSz9CyvHvPjO5ao,Slave to the Rhythm (Original Version),spotify:track:5L4dOpoWSz9CyvHvPjO5ao,0.0353,0.963,0.899,0.000647,0.0758,-4.353,0.0822,120.937,0.92,41
+27,XSCAPE,14,4atoBzVjNpqtfv1jyT1BS1,Do You Know Where Your Children Are (Original Version),spotify:track:4atoBzVjNpqtfv1jyT1BS1,0.288,0.744,0.831,4.49e-06,0.193,-3.583,0.138,97.094,0.855,38
+28,XSCAPE,15,5r36hkZKxmL4gleijg8scM,Blue Gangsta (Original Version),spotify:track:5r36hkZKxmL4gleijg8scM,0.0607,0.898,0.47,4.7e-06,0.316,-4.132,0.188,124.059,0.717,38
+29,XSCAPE,16,48rgfUDLasxWtrbVbWAvqH,Xscape (Original Version),spotify:track:48rgfUDLasxWtrbVbWAvqH,0.0633,0.79,0.93,0.00391,0.315,-2.49,0.0752,104.015,0.625,39
+30,XSCAPE,17,48td6xvpokdYwvbl3JIiXP,Love Never Felt So Good,spotify:track:48td6xvpokdYwvbl3JIiXP,0.132,0.775,0.719,1.79e-06,0.0662,-6.212,0.0435,117.513,0.712,68
+31,XSCAPE - Track by Track Commentary,1,1fCeK0LyjUIOKw9unnF7sI,About Love Never Felt So Good - Commentary by LA Reid,spotify:track:1fCeK0LyjUIOKw9unnF7sI,0.306,0.773,0.247,0.0,0.24,-16.228,0.923,59.266,0.601,29
+32,XSCAPE - Track by Track Commentary,2,0C0f0DloFI7Kqi104RU9Sl,About Chicago - Commentary by LA Reid & Timbaland,spotify:track:0C0f0DloFI7Kqi104RU9Sl,0.288,0.61,0.364,0.0,0.568,-14.669,0.932,80.054,0.476,27
+33,XSCAPE - Track by Track Commentary,3,1Z260vL8td3ibcjHsuQ8cd,About Loving You - Commentary by LA Reid & Timbaland,spotify:track:1Z260vL8td3ibcjHsuQ8cd,0.289,0.666,0.368,0.0,0.547,-16.571,0.933,147.064,0.504,27
+34,XSCAPE - Track by Track Commentary,4,0uwPvNe0myDCnOye73uYZs,About A Place With No Name - Commentary by LA Reid,spotify:track:0uwPvNe0myDCnOye73uYZs,0.166,0.712,0.332,0.0,0.361,-18.014,0.922,127.274,0.312,27
+35,XSCAPE - Track by Track Commentary,5,1MGnINtChOVbuNxz35DE2Q,About Slave to the Rhythm - Commentary by LA Reid & Timbaland,spotify:track:1MGnINtChOVbuNxz35DE2Q,0.0904,0.671,0.167,0.0,0.36,-14.982,0.89,89.267,0.722,26
+36,XSCAPE - Track by Track Commentary,6,6J9qpZTuUJJWRQUpEjVdmQ,About Do You Know Where Your Children Are - Commentary by LA Reid & Timbaland,spotify:track:6J9qpZTuUJJWRQUpEjVdmQ,0.24,0.702,0.351,0.0,0.43,-15.93,0.942,110.276,0.679,26
+37,XSCAPE - Track by Track Commentary,7,4NRh51gpNkdp1r3VSI1jCc,About Blue Gangsta - Commentary by LA Reid & Timbaland,spotify:track:4NRh51gpNkdp1r3VSI1jCc,0.288,0.811,0.47,0.0,0.712,-15.959,0.901,47.082,0.738,26
+38,XSCAPE - Track by Track Commentary,8,5bauHt3U6nkmR6kZDgomzL,About Xscape - Commentary by LA Reid,spotify:track:5bauHt3U6nkmR6kZDgomzL,0.00599,0.705,0.272,0.0,0.386,-17.514,0.938,129.098,0.772,26
+39,Michael,1,0pCyoA5o2uxUwIovECCziF,Hold My Hand (with Akon),spotify:track:0pCyoA5o2uxUwIovECCziF,0.191,0.606,0.72,0.0,0.108,-5.842,0.0374,90.017,0.381,61
+40,Michael,2,5ensPSgQkRM60i8ZH3S9wG,Hollywood Tonight,spotify:track:5ensPSgQkRM60i8ZH3S9wG,0.00529,0.805,0.744,2.93e-05,0.0901,-4.898,0.0533,114.074,0.824,49
+41,Michael,3,1hoegQXoKdKnAwqpXSvd4y,Keep Your Head Up,spotify:track:1hoegQXoKdKnAwqpXSvd4y,0.161,0.578,0.571,0.0,0.377,-4.993,0.0502,142.065,0.338,39
+42,Michael,4,0DnKKKmHKzojMODmrQ7F9i,(I Like) The Way You Love Me,spotify:track:0DnKKKmHKzojMODmrQ7F9i,0.314,0.628,0.668,2.91e-05,0.228,-4.268,0.0279,95.008,0.507,45
+43,Michael,5,0Lktdb6Ln1oxbOFtFkFjjP,Monster (feat. 50 Cent),spotify:track:0Lktdb6Ln1oxbOFtFkFjjP,0.00398,0.734,0.847,5.26e-05,0.178,-3.18,0.119,97.988,0.545,43
+44,Michael,6,1xxV77cC2m366nO5JIx8he,Best of Joy,spotify:track:1xxV77cC2m366nO5JIx8he,0.172,0.731,0.677,1.27e-06,0.1,-4.797,0.027,98.706,0.784,39
+45,Michael,7,1EvZR0biWt8uVNCqZg0Fpi,Breaking News,spotify:track:1EvZR0biWt8uVNCqZg0Fpi,0.0125,0.849,0.745,0.00881,0.373,-4.782,0.0661,113.021,0.673,38
+46,Michael,8,5zKLTGk1EYhGYdbeP4DgL8,(I Can't Make It) Another Day (feat. Lenny Kravitz),spotify:track:5zKLTGk1EYhGYdbeP4DgL8,0.0344,0.678,0.837,7.51e-06,0.0471,-4.654,0.12,90.03,0.881,37
+47,Michael,9,7GOfp80vVSXOAdACM4euuZ,Behind the Mask,spotify:track:7GOfp80vVSXOAdACM4euuZ,0.00586,0.756,0.913,0.0024,0.363,-2.567,0.0382,115.696,0.453,43
+48,Michael,10,0U5pIKWg89q6188WGlcuKN,Much Too Soon,spotify:track:0U5pIKWg89q6188WGlcuKN,0.822,0.389,0.218,0.000392,0.114,-14.708,0.0335,84.167,0.316,38
+49,Invincible,1,5L9anTQJGLyRObYDYvLWdh,Unbreakable,spotify:track:5L9anTQJGLyRObYDYvLWdh,0.0314,0.798,0.824,0.0933,0.0665,-0.933,0.144,94.017,0.851,48
+50,Invincible,2,0L0wNdB2KJjQrymVBkMnAq,Heartbreaker,spotify:track:0L0wNdB2KJjQrymVBkMnAq,0.0184,0.843,0.947,0.000366,0.0888,-2.721,0.0907,136.998,0.847,41
+51,Invincible,3,4HK6hmgMwGXHo3lUUNkiem,Invincible,spotify:track:4HK6hmgMwGXHo3lUUNkiem,0.0435,0.821,0.672,1.21e-05,0.0702,-1.579,0.121,94.156,0.544,42
+52,Invincible,4,5UHM8Z6GXhaB6RUlBemByI,Break of Dawn,spotify:track:5UHM8Z6GXhaB6RUlBemByI,0.39,0.658,0.648,0.0,0.127,-3.074,0.106,81.007,0.409,47
+53,Invincible,5,1AZXNAVDD9ZFIEKySgflFz,Heaven Can Wait,spotify:track:1AZXNAVDD9ZFIEKySgflFz,0.56,0.706,0.685,0.0,0.22,-3.669,0.0837,117.448,0.444,46
+54,Invincible,6,1Lhwn4PqeGpM4LTVUowW76,You Rock My World,spotify:track:1Lhwn4PqeGpM4LTVUowW76,0.038,0.854,0.673,0.000227,0.255,-3.132,0.185,95.0,0.955,64
+55,Invincible,7,0rT9f5BSZrZ6DvzfBEckG0,Butterflies,spotify:track:0rT9f5BSZrZ6DvzfBEckG0,0.0583,0.708,0.655,2.1e-06,0.11,-2.69,0.0883,89.99,0.545,57
+56,Invincible,8,1O1LkHTi3Lep9OHE8BvOVe,Speechless,spotify:track:1O1LkHTi3Lep9OHE8BvOVe,0.565,0.459,0.37,0.0,0.234,-8.041,0.0471,133.907,0.118,45
+57,Invincible,9,4aTYZL8uyGXAdmWOQy4Wgx,2000 Watts,spotify:track:4aTYZL8uyGXAdmWOQy4Wgx,0.0094,0.763,0.742,0.0116,0.0672,-3.113,0.155,90.503,0.242,40
+58,Invincible,10,4ybCcJqXdPRLtz9Dfy92t4,You Are My Life,spotify:track:4ybCcJqXdPRLtz9Dfy92t4,0.155,0.619,0.568,0.0,0.188,-5.058,0.0349,130.201,0.214,43
+59,Invincible,11,53NdDxLiNn7VSgDVi9KsYl,Privacy,spotify:track:53NdDxLiNn7VSgDVi9KsYl,0.117,0.732,0.769,0.0,0.0359,-1.828,0.0634,82.047,0.835,39
+60,Invincible,12,1KWt1O0TZcdCkg3WIvkQaK,Don't Walk Away,spotify:track:1KWt1O0TZcdCkg3WIvkQaK,0.492,0.54,0.491,0.0,0.155,-5.749,0.0327,139.717,0.0991,40
+61,Invincible,13,0wJelplx8NfzfyagNVaOVI,Cry,spotify:track:0wJelplx8NfzfyagNVaOVI,0.367,0.664,0.503,0.0,0.113,-5.979,0.0366,85.011,0.462,40
+62,Invincible,14,00MAeOlplKSab33lINpZds,The Lost Children,spotify:track:00MAeOlplKSab33lINpZds,0.615,0.342,0.346,3.68e-05,0.0847,-6.913,0.0305,83.955,0.273,40
+63,Invincible,15,4fK6bgzyKt4EIv3R1wrUtl,Whatever Happens,spotify:track:4fK6bgzyKt4EIv3R1wrUtl,0.371,0.677,0.741,2.37e-06,0.103,-2.829,0.0743,97.011,0.565,46
+65,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,1,11lw4bWbmxWIETHitBU0Gc,Blood on the Dance Floor,spotify:track:11lw4bWbmxWIETHitBU0Gc,0.0135,0.807,0.741,0.0316,0.06,-4.472,0.083,108.989,0.558,58
+66,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,2,5cyUiyJ9ZtQfnvFU2y31RC,Morphine,spotify:track:5cyUiyJ9ZtQfnvFU2y31RC,0.167,0.888,0.933,0.00363,0.0521,-4.516,0.105,102.896,0.176,40
+67,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,3,64se9mFGa972tiKHKnJnyG,Superfly Sister,spotify:track:64se9mFGa972tiKHKnJnyG,0.0115,0.816,0.909,0.0248,0.1,-4.476,0.0518,112.963,0.827,37
+69,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,5,1H43TqXTWkEhXjdw3LEfUS,Is It Scary,spotify:track:1H43TqXTWkEhXjdw3LEfUS,0.399,0.628,0.868,0.00126,0.353,-5.463,0.0634,108.857,0.283,40
+70,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,6,45I4o7CBHKEUie84viUIuM,Scream Louder - Flyte Tyme Remix,spotify:track:45I4o7CBHKEUie84viUIuM,0.0792,0.771,0.957,0.00351,0.0977,-6.642,0.212,105.533,0.469,33
+71,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,7,3ePJSoCy4owa8jLRiYlE1u,Money - Fire Island Radio Edit,spotify:track:3ePJSoCy4owa8jLRiYlE1u,0.0019,0.796,0.824,0.0758,0.045,-9.25,0.044,114.013,0.83,31
+72,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,8,7hYyDytE51gtqG3JzvQdz3,2 Bad - Refugee Camp Mix,spotify:track:7hYyDytE51gtqG3JzvQdz3,0.192,0.85,0.922,0.0,0.0517,-6.902,0.0869,103.867,0.813,32
+73,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,9,5dWL7WXyzTdho4tplQqJzK,Stranger in Moscow - Tee's In-House Club Mix,spotify:track:5dWL7WXyzTdho4tplQqJzK,0.0014,0.77,0.875,0.334,0.106,-5.491,0.0531,124.11,0.845,31
+74,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,10,35dPTlVylfHvcgIVj1M9LW,This Time Around - D.M. Radio Mix,spotify:track:35dPTlVylfHvcgIVj1M9LW,0.00473,0.86,0.918,1.22e-05,0.0575,-5.515,0.0685,123.336,0.572,29
+75,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,11,4Uw7RAKTS31MDUJ9KSxmCz,Earth Song - Hani's Extended Radio Experience,spotify:track:4Uw7RAKTS31MDUJ9KSxmCz,0.00594,0.731,0.614,0.686,0.106,-10.177,0.0463,129.343,0.548,33
+76,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,12,0QMzztcTWRykks8aXErji5,You Are Not Alone - Classic Club Mix,spotify:track:0QMzztcTWRykks8aXErji5,0.00363,0.606,0.853,0.0062,0.0432,-7.189,0.0364,124.516,0.695,31
+77,BLOOD ON THE DANCE FLOOR/ HIStory In The Mix,13,2tjDDVaEtfp6JPtnTEAvoE,History - Tony Moran's HIStory Lesson,spotify:track:2tjDDVaEtfp6JPtnTEAvoE,0.00198,0.677,0.881,0.0192,0.109,-5.878,0.0489,123.93,0.683,33
+91,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",2,541jTq3SOEELKvcfA0jHI0,The Way You Make Me Feel,spotify:track:541jTq3SOEELKvcfA0jHI0,0.0367,0.608,0.816,0.000554,0.116,-5.926,0.11,114.484,0.507,57
+93,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",4,5yxIenY5kSLlgTr3XGYw9p,Rock With You,spotify:track:5yxIenY5kSLlgTr3XGYw9p,0.0793,0.794,0.741,0.000292,0.116,-6.494,0.0394,114.489,0.856,56
+94,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",5,1UpdFu6w98DuTMW8twhT6D,She's Out Of My Life,spotify:track:1UpdFu6w98DuTMW8twhT6D,0.96,0.251,0.12,0.000769,0.111,-15.419,0.0364,85.385,0.126,46
+95,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",6,3FvQH46A4B37eNHjooIXcu,Bad,spotify:track:3FvQH46A4B37eNHjooIXcu,0.00712,0.802,0.869,0.241,0.0585,-5.03,0.0457,114.139,0.339,56
+96,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",7,4yD5hKvrw3L6sRJbzgaFwe,I Just Can't Stop Loving You,spotify:track:4yD5hKvrw3L6sRJbzgaFwe,0.628,0.654,0.488,4.9e-06,0.0412,-8.237,0.0358,100.154,0.25,55
+97,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",8,2u2udGmop1z67EPpr91km7,Man in the Mirror,spotify:track:2u2udGmop1z67EPpr91km7,0.43,0.794,0.798,1.15e-05,0.114,-5.639,0.0366,100.338,0.265,65
+99,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",10,52xaypL0Kjzk0ngwv3oBPR,Beat It,spotify:track:52xaypL0Kjzk0ngwv3oBPR,0.0268,0.761,0.799,6.22e-05,0.17,-6.247,0.0449,138.825,0.906,62
+102,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",13,1883SZ1i4AIgtCFQ1KaK8t,Don't Stop 'Til You Get Enough,spotify:track:1883SZ1i4AIgtCFQ1KaK8t,0.0473,0.878,0.93,0.0155,0.111,-4.705,0.0822,119.331,0.895,49
+106,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",2,3wuCCNCnBhJlwkIJTBZFiv,They Don't Care About Us,spotify:track:3wuCCNCnBhJlwkIJTBZFiv,0.205,0.859,0.905,0.00825,0.322,-5.539,0.129,89.945,0.73,68
+107,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",3,64KrFHj9p5AyCX2yZQr4YJ,Stranger in Moscow,spotify:track:64KrFHj9p5AyCX2yZQr4YJ,0.248,0.802,0.468,0.0006,0.32,-8.629,0.0378,129.937,0.586,57
+108,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",4,6U6Cr0sQTmuvPqEs8iLgPn,This Time Around,spotify:track:6U6Cr0sQTmuvPqEs8iLgPn,0.0473,0.878,0.826,0.000568,0.0648,-4.711,0.0535,105.856,0.912,44
+109,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",5,4GCGH6TJ69neckwITeBFXK,Earth Song,spotify:track:4GCGH6TJ69neckwITeBFXK,0.482,0.5,0.44,0.000112,0.087,-7.521,0.0319,138.374,0.143,63
+110,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",6,7roNDDmU52OYgYwCN9SI8E,D.S.,spotify:track:7roNDDmU52OYgYwCN9SI8E,0.218,0.889,0.914,0.00595,0.347,-4.308,0.0637,109.463,0.972,44
+111,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",7,2VCSO1mqWPALcPbEQwgSd3,Money,spotify:track:2VCSO1mqWPALcPbEQwgSd3,0.032,0.899,0.681,1.82e-05,0.196,-6.913,0.0804,102.942,0.817,44
+112,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",8,3tE5OfatEheU3L5nSpW9FD,Come Together,spotify:track:3tE5OfatEheU3L5nSpW9FD,0.112,0.825,0.775,0.000678,0.0782,-6.161,0.0381,89.601,0.765,52
+113,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",9,3AoeaZs8dFemFJr3JdzOL0,You Are Not Alone,spotify:track:3AoeaZs8dFemFJr3JdzOL0,0.639,0.651,0.402,8.09e-05,0.0764,-9.303,0.0281,119.878,0.256,65
+114,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",10,1Cfx6KBsyF0tEKbZbS4faj,"Childhood (Theme from ""Free Willy 2"")",spotify:track:1Cfx6KBsyF0tEKbZbS4faj,0.799,0.186,0.204,4.92e-05,0.147,-11.414,0.0332,175.423,0.0849,44
+115,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",11,7n6DnNdKKhjyDa1GlGgLeQ,Tabloid Junkie,spotify:track:7n6DnNdKKhjyDa1GlGgLeQ,0.0866,0.814,0.877,7.36e-05,0.277,-7.134,0.152,111.179,0.58,45
+116,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",12,5Bw9bAHGaykCFLP0VyqNbJ,2 Bad,spotify:track:5Bw9bAHGaykCFLP0VyqNbJ,0.0698,0.868,0.943,9.09e-06,0.401,-3.85,0.248,103.963,0.523,45
+117,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",13,1EdzLQKCE066beJkDfaagd,History,spotify:track:1EdzLQKCE066beJkDfaagd,0.474,0.43,0.594,0.0,0.592,-7.74,0.12,93.906,0.456,44
+118,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",14,0nxdtEWLQeLcJ2IQwDftAU,Little Susie / Pie Jesu,spotify:track:0nxdtEWLQeLcJ2IQwDftAU,0.836,0.318,0.182,0.000766,0.0423,-13.168,0.0358,134.66,0.0524,41
+119,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",15,1iin2Ll8PHPzoh6xF6LQRh,Smile,spotify:track:1iin2Ll8PHPzoh6xF6LQRh,0.713,0.258,0.301,6.93e-05,0.107,-8.654,0.0317,85.355,0.0394,45
+149,Dangerous,1,2EI8uljBPaI23VUr2tv4eS,Jam,spotify:track:2EI8uljBPaI23VUr2tv4eS,0.0487,0.884,0.96,0.0228,0.271,-4.613,0.0721,116.273,0.617,58
+150,Dangerous,2,3kFMRdbxcBkPopY8mMFmSU,Why You Wanna Trip on Me,spotify:track:3kFMRdbxcBkPopY8mMFmSU,0.0129,0.889,0.727,0.00284,0.179,-5.845,0.0852,109.658,0.51,47
+151,Dangerous,3,5Fy40smNxk0j5OpFMtvfaU,In the Closet,spotify:track:5Fy40smNxk0j5OpFMtvfaU,0.117,0.876,0.782,0.000721,0.149,-3.777,0.0685,110.494,0.622,57
+152,Dangerous,4,6yLdWiAkS1ZUrTdgm0yKXL,She Drives Me Wild,spotify:track:6yLdWiAkS1ZUrTdgm0yKXL,0.0697,0.906,0.93,0.0,0.463,-2.081,0.208,109.545,0.645,45
+153,Dangerous,5,4jnFqNWeJCeCRHc4HCdxfd,Remember the Time,spotify:track:4jnFqNWeJCeCRHc4HCdxfd,0.153,0.831,0.921,0.00213,0.305,-2.383,0.0581,108.002,0.794,69
+154,Dangerous,6,75yYXB96tX1BlSMgL0SMsA,Can't Let Her Get Away,spotify:track:75yYXB96tX1BlSMgL0SMsA,0.13,0.873,0.973,0.689,0.112,-1.947,0.127,108.488,0.582,45
+155,Dangerous,7,7woW97CfcWaKtuC6W5BP2K,Heal the World,spotify:track:7woW97CfcWaKtuC6W5BP2K,0.537,0.534,0.485,1.79e-06,0.104,-8.045,0.0467,80.923,0.102,70
+156,Dangerous,8,7EsjkelQuoUlJXEw7SeVV4,Black or White,spotify:track:7EsjkelQuoUlJXEw7SeVV4,0.172,0.518,0.9,0.0315,0.0713,-3.748,0.0933,115.029,0.872,66
+157,Dangerous,9,4HWcWgleTuUAWnVPNwW4CM,Who Is It,spotify:track:4HWcWgleTuUAWnVPNwW4CM,0.0152,0.862,0.595,0.000343,0.104,-4.655,0.121,103.168,0.502,58
+158,Dangerous,10,1euDTbMNRPNfKd8zZz4zTT,Give In to Me,spotify:track:1euDTbMNRPNfKd8zZz4zTT,0.152,0.502,0.855,0.000493,0.106,-3.27,0.0305,86.967,0.338,58
+159,Dangerous,11,1igW25R8lnb5ze9GWbuVsl,Will You Be There,spotify:track:1igW25R8lnb5ze9GWbuVsl,0.82,0.349,0.432,0.085,0.191,-9.554,0.0384,82.935,0.137,56
+160,Dangerous,12,4J4B9TrVrvQVS6GRPtaxrA,Keep the Faith,spotify:track:4J4B9TrVrvQVS6GRPtaxrA,0.556,0.752,0.647,0.0,0.0869,-5.547,0.0484,143.238,0.672,44
+161,Dangerous,13,66mXHPRfAwbnNKnTCNpytj,Gone Too Soon,spotify:track:66mXHPRfAwbnNKnTCNpytj,0.89,0.243,0.186,0.00271,0.097,-12.736,0.0332,144.298,0.119,52
+162,Dangerous,14,3u4RKvwDT3CKeYbjxqXEye,Dangerous,spotify:track:3u4RKvwDT3CKeYbjxqXEye,0.025,0.943,0.708,2.33e-05,0.0846,-4.686,0.116,112.959,0.581,56
+174,Bad 25th Anniversary,1,5lWFrW5T3JtxVCLDb7etPu,Bad - 2012 Remaster,spotify:track:5lWFrW5T3JtxVCLDb7etPu,0.00462,0.787,0.889,0.423,0.0665,-3.786,0.0397,114.091,0.394,68
+175,Bad 25th Anniversary,2,0sKlV58cODrjxGFOyf9IXY,The Way You Make Me Feel - 2012 Remaster,spotify:track:0sKlV58cODrjxGFOyf9IXY,0.0544,0.877,0.854,5.5e-05,0.144,-4.523,0.147,114.472,0.54,73
+176,Bad 25th Anniversary,3,2w7VEWHtt8WW88Yt5H9ibZ,Speed Demon - 2012 Remaster,spotify:track:2w7VEWHtt8WW88Yt5H9ibZ,0.000777,0.789,0.748,0.479,0.304,-4.998,0.0521,98.9,0.235,51
+177,Bad 25th Anniversary,4,5OoRmdDfAiDztSwrhe7wuE,Liberian Girl - 2012 Remastered Version,spotify:track:5OoRmdDfAiDztSwrhe7wuE,0.464,0.749,0.546,0.00191,0.126,-7.217,0.103,105.232,0.454,59
+178,Bad 25th Anniversary,5,75Rv9SkGILm24kmhAYvjZg,Just Good Friends - 2012 Remaster,spotify:track:75Rv9SkGILm24kmhAYvjZg,0.577,0.859,0.934,1.56e-05,0.627,-3.08,0.107,118.888,0.762,45
+179,Bad 25th Anniversary,6,21VCYxPZ8A2XpSNUyQCT3B,Another Part of Me - 2012 Remaster,spotify:track:21VCYxPZ8A2XpSNUyQCT3B,0.11,0.78,0.868,7.67e-05,0.352,-4.5,0.0705,106.069,0.773,56
+180,Bad 25th Anniversary,7,1kiNatIrwDusOZfR29W0LJ,Man in the Mirror - 2012 Remaster,spotify:track:1kiNatIrwDusOZfR29W0LJ,0.52,0.808,0.812,7.91e-05,0.134,-5.012,0.0381,100.331,0.269,67
+181,Bad 25th Anniversary,8,2fytePz8UsbUr8n33QBEcm,I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster,spotify:track:2fytePz8UsbUr8n33QBEcm,0.667,0.657,0.467,1.92e-06,0.0295,-8.925,0.0341,100.139,0.276,65
+183,Bad 25th Anniversary,10,2bCQHF9gdG5BNDVuEIEnNk,Smooth Criminal - 2012 Remaster,spotify:track:2bCQHF9gdG5BNDVuEIEnNk,0.247,0.853,0.981,0.468,0.306,-3.947,0.0751,118.193,0.595,75
+185,Bad 25th Anniversary,1,4DdtaYlJk11wRpRC6eMhHa,Don't Be Messin' 'Round,spotify:track:4DdtaYlJk11wRpRC6eMhHa,0.0568,0.931,0.737,0.0155,0.0431,-7.975,0.0443,120.929,0.973,40
+186,Bad 25th Anniversary,2,4E4uk2y03wLssBIOjQSUoG,I'm So Blue,spotify:track:4E4uk2y03wLssBIOjQSUoG,0.222,0.799,0.391,9.98e-05,0.218,-9.724,0.0389,94.189,0.607,41
+187,Bad 25th Anniversary,3,3YkgiRmt9aNzfxXgcij7eY,Song Groove (a.k.a. Abortion Papers),spotify:track:3YkgiRmt9aNzfxXgcij7eY,0.266,0.922,0.922,0.18,0.0437,-3.464,0.0488,133.208,0.963,39
+188,Bad 25th Anniversary,4,1NeR1aXj5JBFYcDVvMqQpO,Free,spotify:track:1NeR1aXj5JBFYcDVvMqQpO,0.215,0.842,0.529,4.68e-06,0.0723,-6.48,0.0307,121.001,0.584,39
+189,Bad 25th Anniversary,5,4xrw5lHtYDYHIFj96Tse7O,Price of Fame,spotify:track:4xrw5lHtYDYHIFj96Tse7O,0.157,0.862,0.719,0.000124,0.0956,-4.281,0.0436,122.881,0.906,39
+190,Bad 25th Anniversary,6,3d9E8xXtuKmqNNxA1YW5ax,Al Capone,spotify:track:3d9E8xXtuKmqNNxA1YW5ax,0.0678,0.794,0.889,0.151,0.0686,-3.696,0.0569,112.279,0.951,43
+191,Bad 25th Anniversary,7,0zZRYdXy3STXl8o847K5By,Streetwalker,spotify:track:0zZRYdXy3STXl8o847K5By,0.216,0.939,0.749,0.00618,0.29,-4.56,0.0464,117.675,0.943,44
+192,Bad 25th Anniversary,8,0oleopAuBlxuq7fcFl9Ap8,Fly Away,spotify:track:0oleopAuBlxuq7fcFl9Ap8,0.102,0.763,0.564,0.0,0.0415,-7.63,0.0293,110.906,0.525,39
+193,Bad 25th Anniversary,9,2O9llQaI7q6FPY2afs9k8R,Todo Mi Amor Eres Tu (I Just Can't Stop Loving You),spotify:track:2O9llQaI7q6FPY2afs9k8R,0.669,0.386,0.496,0.0,0.0649,-7.203,0.0643,199.995,0.3,41
+194,Bad 25th Anniversary,10,6KYO3lxxVzKdb4zcyEgkaS,Je Ne Veux Pas La Fin De Nous (I Just Can't Stop Loving You) - French Version,spotify:track:6KYO3lxxVzKdb4zcyEgkaS,0.601,0.65,0.508,0.0,0.0828,-7.993,0.0339,100.149,0.222,36
+195,Bad 25th Anniversary,11,7lVHsLX1Tgy0UqQFk8NsCO,Bad (feat. Pitbull),spotify:track:7lVHsLX1Tgy0UqQFk8NsCO,0.0338,0.779,0.909,0.0388,0.605,-4.558,0.0885,127.976,0.605,40
+196,Bad 25th Anniversary,12,38EeKmUjNEF1KA4KfcEB0v,Speed Demon (Remix by Nero),spotify:track:38EeKmUjNEF1KA4KfcEB0v,0.000309,0.582,0.864,0.54,0.334,-5.361,0.0438,102.971,0.064,40
+197,Bad 25th Anniversary,13,5yWui9wtvNkbbKNcYc5fJG,Bad - Remix By AfroJack-Club Mix,spotify:track:5yWui9wtvNkbbKNcYc5fJG,0.0278,0.799,0.767,0.807,0.203,-5.375,0.116,127.986,0.538,37
+199,Thriller,2,6XYbMGvtl6tlPoGWaiH7EY,Baby Be Mine,spotify:track:6XYbMGvtl6tlPoGWaiH7EY,0.0848,0.843,0.483,7.89e-06,0.0741,-10.288,0.0949,109.588,0.664,55
+206,Thriller,9,07L1pzoVerhRSSaDGZHrKy,The Lady in My Life,spotify:track:07L1pzoVerhRSSaDGZHrKy,0.369,0.66,0.344,0.000107,0.0589,-13.93,0.0489,146.034,0.436,56
+216,Thriller 25 Super Deluxe Edition,1,2kulOHR2XY6YDZCWXb38hn,Wanna Be Startin' Somethin',spotify:track:2kulOHR2XY6YDZCWXb38hn,0.0219,0.846,0.922,0.355,0.0623,-4.206,0.0438,122.195,0.899,63
+218,Thriller 25 Super Deluxe Edition,3,1diEQsD8PJC9hXB5Gpfgtn,The Girl Is Mine (with Paul McCartney),spotify:track:1diEQsD8PJC9hXB5Gpfgtn,0.269,0.671,0.636,4.09e-06,0.18,-6.673,0.0558,81.477,0.651,60
+220,Thriller 25 Super Deluxe Edition,5,1OOtq8tRnDM8kG2gqUPjAj,Beat It - Single Version,spotify:track:1OOtq8tRnDM8kG2gqUPjAj,0.0491,0.779,0.867,7.98e-06,0.197,-3.704,0.0457,138.858,0.915,77
+221,Thriller 25 Super Deluxe Edition,6,5ChkMS8OtdzJeqyybCc9R5,Billie Jean,spotify:track:5ChkMS8OtdzJeqyybCc9R5,0.0236,0.92,0.654,0.0158,0.0359,-3.051,0.0401,117.046,0.847,81
+222,Thriller 25 Super Deluxe Edition,7,35lAjvsvS9k9HHuP1fjDT8,Human Nature,spotify:track:35lAjvsvS9k9HHuP1fjDT8,0.541,0.624,0.512,0.00478,0.26,-10.041,0.0297,93.059,0.685,65
+223,Thriller 25 Super Deluxe Edition,8,5lA3pwMkBdd24StM90QrNR,P.Y.T. (Pretty Young Thing),spotify:track:5lA3pwMkBdd24StM90QrNR,0.23,0.888,0.815,0.000424,0.127,-4.909,0.0404,127.273,0.961,71
+225,Thriller 25 Super Deluxe Edition,10,1G3EVrzpUJHM3p1rVXdWPc,"Vincent Price Excerpt From ""Thriller"" Voice-Over Session - Thriller 25th Anniversary Voice-Over Session",spotify:track:1G3EVrzpUJHM3p1rVXdWPc,0.619,0.669,0.914,6.18e-05,0.951,-15.762,0.938,149.04,0.0554,8
+226,Thriller 25 Super Deluxe Edition,11,3P5LP0QEswwTGJSlESoeB5,The Girl Is Mine 2008 with will.i.am (with will.i.am) - Thriller 25th Anniversary Remix,spotify:track:3P5LP0QEswwTGJSlESoeB5,0.0443,0.77,0.747,0.0,0.0864,-6.626,0.135,96.001,0.926,41
+227,Thriller 25 Super Deluxe Edition,12,4tYeov7pG1Hk1xaRP94Io5,P.Y.T. (Pretty Young Thing) 2008 with will.i.am (with will.i.am) - Thriller 25th Anniversary Remix feat. willi.i.am,spotify:track:4tYeov7pG1Hk1xaRP94Io5,0.0216,0.827,0.805,2.27e-05,0.195,-7.042,0.0914,109.348,0.674,40
+228,Thriller 25 Super Deluxe Edition,13,15A3uqmUTxJ1KJGfAdiywb,Wanna Be Startin' Somethin' 2008 with Akon (with Akon) - Thriller 25th Anniversary Remix,spotify:track:15A3uqmUTxJ1KJGfAdiywb,0.117,0.82,0.952,0.000258,0.106,-4.778,0.0723,121.949,0.36,41
+229,Thriller 25 Super Deluxe Edition,14,4WOd40p1zhy3cWL0Eh4yAy,Beat It 2008 (with Fergie) - Thriller 25th Anniversary Remix feat. Fergie,spotify:track:4WOd40p1zhy3cWL0Eh4yAy,0.00597,0.829,0.683,0.0,0.185,-6.037,0.0576,138.013,0.633,42
+230,Thriller 25 Super Deluxe Edition,15,17bgTUPOnLLVavmeS2Pc0B,Billie Jean 2008 Kanye West Mix (feat. Kanye West) - Thriller 25th Anniversary Remix,spotify:track:17bgTUPOnLLVavmeS2Pc0B,0.00948,0.713,0.822,0.000781,0.223,-6.631,0.0346,101.986,0.257,41
+231,Thriller 25 Super Deluxe Edition,16,4NYi8J4w2AuI9qyv5bY2Nt,For All Time,spotify:track:4NYi8J4w2AuI9qyv5bY2Nt,0.291,0.651,0.493,0.0,0.0872,-8.581,0.041,84.966,0.496,42
+232,Thriller 25 Super Deluxe Edition,17,3Xq33ThZ4gEje8gdVm85Ve,Voice-Over Intro Quincy Jones Interview #1 / Quincy Jones Interview #1,spotify:track:3Xq33ThZ4gEje8gdVm85Ve,0.983,0.723,0.321,0.0,0.486,-14.935,0.897,116.78,0.608,34
+233,Thriller 25 Super Deluxe Edition,18,2CxNfpTOTaThbGNGTmQ9Xg,Someone in the Dark,spotify:track:2CxNfpTOTaThbGNGTmQ9Xg,0.748,0.231,0.273,1.72e-05,0.145,-11.584,0.031,101.984,0.118,39
+234,Thriller 25 Super Deluxe Edition,19,5hYxcTFDceQRd9jQKn6N6T,Voice-Over Intro Quincy Jones Interview #2/Quincy Jones Interview #2 / Voice-Over Intro Billie Jean (Demo),spotify:track:5hYxcTFDceQRd9jQKn6N6T,0.981,0.683,0.329,0.0,0.335,-15.209,0.953,85.062,0.63,30
+235,Thriller 25 Super Deluxe Edition,20,0FsyTSZ4Ghi1SpKJvJfJnZ,Billie Jean (Home Demo from 1981),spotify:track:0FsyTSZ4Ghi1SpKJvJfJnZ,0.0681,0.953,0.441,0.000111,0.0635,-8.462,0.0434,114.979,0.52,38
+236,Thriller 25 Super Deluxe Edition,21,08T3XRWA3rTjOAu682I80g,Quincy Jones Interview #3,spotify:track:08T3XRWA3rTjOAu682I80g,0.986,0.675,0.268,0.0,0.219,-17.569,0.933,96.876,0.492,34
+237,Thriller 25 Super Deluxe Edition,22,443n9T3L7lbvnwtwtkC7vl,Voice-Over Intro Rod Temperton Interview #1 / Rod Temperton Interview #1,spotify:track:443n9T3L7lbvnwtwtkC7vl,0.439,0.735,0.256,0.0,0.423,-14.822,0.925,71.944,0.641,31
+238,Thriller 25 Super Deluxe Edition,23,56omgpLsxvyalOj6o1HWDP,Quincy Jones Interview #4,spotify:track:56omgpLsxvyalOj6o1HWDP,0.984,0.652,0.311,1.05e-06,0.223,-16.512,0.926,81.659,0.567,33
+239,Thriller 25 Super Deluxe Edition,24,51PXL2lCvWSN41KhOcVdBE,Voice-Over Intro / Voice-Over Session from Thriller,spotify:track:51PXL2lCvWSN41KhOcVdBE,0.279,0.528,0.453,0.0,0.593,-18.484,0.96,75.676,0.436,29
+240,Thriller 25 Super Deluxe Edition,25,1xU5NiN3ZKUa3J3S93aYd5,Voice-Over Intro Rod Temperton Interview #2 / Rod Temperton Interview #2,spotify:track:1xU5NiN3ZKUa3J3S93aYd5,0.718,0.619,0.227,0.0,0.624,-17.923,0.95,181.398,0.647,28
+241,Thriller 25 Super Deluxe Edition,26,5UkQojZQHZntZHe2WoLo0n,Quincy Jones Interview #5,spotify:track:5UkQojZQHZntZHe2WoLo0n,0.987,0.721,0.244,3.7e-06,0.462,-17.839,0.919,107.009,0.588,31
+242,Thriller 25 Super Deluxe Edition,27,6MCFKOiRbDppSzOFKvHlnk,Carousel,spotify:track:6MCFKOiRbDppSzOFKvHlnk,0.282,0.726,0.611,0.0,0.264,-7.507,0.113,159.228,0.555,39
+243,Thriller 25 Super Deluxe Edition,28,5jT0aOxgDOfW8naiT2YegG,Voice-Over Intro Quincy Jones Interview #6 / Quincy Jones Interview #6,spotify:track:5jT0aOxgDOfW8naiT2YegG,0.981,0.756,0.308,3.74e-06,0.321,-13.703,0.931,97.155,0.75,31
+244,Thriller 25 Super Deluxe Edition,29,6m9V5QOltZ8At8vIAayTnq,Billie Jean - Underground Mix,spotify:track:6m9V5QOltZ8At8vIAayTnq,3.75e-05,0.808,0.816,0.876,0.0285,-5.963,0.0506,118.959,0.605,33
+245,Thriller 25 Super Deluxe Edition,30,3yYt5HIf99u6lsinB95Ku8,Thriller - Instrumental,spotify:track:3yYt5HIf99u6lsinB95Ku8,0.0222,0.744,0.852,0.0891,0.94,-5.306,0.0445,118.126,0.75,36
+246,Off the Wall,1,46eu3SBuFCXWsPT39Yg3tJ,Don't Stop 'Til You Get Enough - Single Version,spotify:track:46eu3SBuFCXWsPT39Yg3tJ,0.126,0.878,0.821,0.0461,0.183,-9.875,0.089,118.881,0.947,74
+247,Off the Wall,2,7oOOI85fVQvVnK5ynNMdW7,Rock with You - Single Version,spotify:track:7oOOI85fVQvVnK5ynNMdW7,0.179,0.808,0.535,9.91e-05,0.158,-12.521,0.0353,114.031,0.848,72
+248,Off the Wall,3,6BdiFsPMPkSEEO4fFXFVWX,Workin' Day and Night,spotify:track:6BdiFsPMPkSEEO4fFXFVWX,0.0461,0.907,0.875,0.00349,0.13,-11.001,0.0635,129.797,0.865,58
+249,Off the Wall,4,78XG7U0UueeC86XpzF9O7f,Get on the Floor,spotify:track:78XG7U0UueeC86XpzF9O7f,0.0629,0.809,0.892,0.344,0.0334,-11.443,0.0437,124.435,0.89,51
+250,Off the Wall,5,3zYpRGnnoegSpt3SguSo3W,Off the Wall,spotify:track:3zYpRGnnoegSpt3SguSo3W,0.182,0.827,0.595,0.0,0.0785,-13.909,0.0565,118.741,0.921,62
+251,Off the Wall,6,1nCV2d1RAch7t2kRmwet5N,Girlfriend,spotify:track:1nCV2d1RAch7t2kRmwet5N,0.4,0.883,0.4,1.33e-05,0.0756,-14.882,0.0498,102.767,0.905,49
+252,Off the Wall,7,6NGsHLZYGVAkXTFr75WWnn,She's Out of My Life - Single Version,spotify:track:6NGsHLZYGVAkXTFr75WWnn,0.962,0.293,0.0348,0.000212,0.105,-23.92,0.0414,130.959,0.101,57
+253,Off the Wall,8,1HibhNhwk2tljwC4BGGLXV,I Can't Help It,spotify:track:1HibhNhwk2tljwC4BGGLXV,0.704,0.684,0.394,5.76e-06,0.178,-19.075,0.0908,100.068,0.429,57
+254,Off the Wall,9,0CeE7kE8zAnfKIVpdmOaJl,It's the Falling in Love,spotify:track:0CeE7kE8zAnfKIVpdmOaJl,0.206,0.794,0.551,1.01e-05,0.289,-14.607,0.0498,105.547,0.91,48
+255,Off the Wall,10,6aCs8gCrp4yrwvw7ylhau2,Burn This Disco Out,spotify:track:6aCs8gCrp4yrwvw7ylhau2,0.213,0.847,0.709,0.000252,0.0473,-11.343,0.0335,116.458,0.961,49
+256,Forever Michael,1,271PfBUXOXoQCcBgvxTqSF,We're Almost There,spotify:track:271PfBUXOXoQCcBgvxTqSF,0.0851,0.569,0.673,2.91e-06,0.647,-12.955,0.0638,93.575,0.803,32
+257,Forever Michael,2,5c52g1CsyGTVaBktoGz5Rm,Take Me Back,spotify:track:5c52g1CsyGTVaBktoGz5Rm,0.296,0.682,0.643,0.00225,0.328,-13.87,0.0342,99.702,0.856,27
+258,Forever Michael,3,77fMGCDb1e3KEd060YEpyS,One Day In Your Life,spotify:track:77fMGCDb1e3KEd060YEpyS,0.627,0.307,0.354,0.0102,0.21,-15.855,0.0323,81.562,0.239,49
+259,Forever Michael,4,1bsCacKN3Tvfjkfs93ITtU,Cinderella Stay Awhile,spotify:track:1bsCacKN3Tvfjkfs93ITtU,0.361,0.702,0.434,0.000417,0.294,-14.962,0.0464,130.06,0.785,24
+260,Forever Michael,5,0q7poNbClOWHtByN3r46Bg,We've Got Forever,spotify:track:0q7poNbClOWHtByN3r46Bg,0.418,0.453,0.614,0.00155,0.256,-14.469,0.0874,174.165,0.657,23
+261,Forever Michael,6,12ce8QZpW9GdN5rf0H8JlX,Just A Little Bit Of You,spotify:track:12ce8QZpW9GdN5rf0H8JlX,0.485,0.758,0.604,0.0,0.469,-12.52,0.0366,110.252,0.95,26
+262,Forever Michael,7,0kUnnH86ePmljZHy1M5xVJ,You Are There,spotify:track:0kUnnH86ePmljZHy1M5xVJ,0.555,0.283,0.403,0.000388,0.116,-13.743,0.0521,86.658,0.397,25
+263,Forever Michael,8,7a0Q6pUkNU0yWkrbtH9QSJ,Dapper Dan,spotify:track:7a0Q6pUkNU0yWkrbtH9QSJ,0.0575,0.61,0.485,2.5e-06,0.31,-14.63,0.0782,161.248,0.894,23
+264,Forever Michael,9,40UXqzsBkb00iKGgjyfp1R,Dear Michael,spotify:track:40UXqzsBkb00iKGgjyfp1R,0.325,0.573,0.422,0.000166,0.453,-14.258,0.033,142.65,0.726,24
+265,Forever Michael,10,5w0ciGczZwOg18acVyOqiW,I'll Come Home To You,spotify:track:5w0ciGczZwOg18acVyOqiW,0.307,0.429,0.444,5.32e-06,0.347,-15.436,0.0446,99.885,0.456,23
+276,Music And Me,1,5hh4TaBholcmnlTkxjwrPU,Rockin' Robin,spotify:track:5hh4TaBholcmnlTkxjwrPU,0.293,0.626,0.655,3.75e-05,0.299,-10.773,0.117,173.182,0.965,9
+278,Music And Me,3,3bQlYstOpOSpreMTjGF6LG,Shoo-Be-Doo-Be-Doo-Da-Day,spotify:track:3bQlYstOpOSpreMTjGF6LG,0.241,0.679,0.812,1.53e-06,0.0792,-10.443,0.0477,130.741,0.956,5
+283,Music And Me,8,5gjQWMRF1SOZTLpukjyRNj,Ain't No Sunshine,spotify:track:5gjQWMRF1SOZTLpukjyRNj,0.0746,0.523,0.561,6.71e-05,0.148,-12.032,0.0638,152.275,0.786,6
+290,Music & Me,1,6Z1qhvpkGKlGouRQIgqBWd,With A Child's Heart,spotify:track:6Z1qhvpkGKlGouRQIgqBWd,0.598,0.527,0.34,0.016,0.311,-14.819,0.035,150.978,0.344,29
+291,Music & Me,2,3A1X3UmSY2WyVP9IWosuWx,Up Again,spotify:track:3A1X3UmSY2WyVP9IWosuWx,0.346,0.683,0.477,0.000882,0.106,-12.207,0.0339,77.802,0.586,23
+292,Music & Me,3,3MOCq545I0fYV5EWEEEr80,All The Things You Are,spotify:track:3MOCq545I0fYV5EWEEEr80,0.322,0.525,0.732,0.0875,0.406,-10.924,0.0451,138.605,0.688,25
+293,Music & Me,4,6OrOECXNwOakOu0CSmkeKA,"Happy (Love Theme From ""Lady Sings The Blues"")",spotify:track:6OrOECXNwOakOu0CSmkeKA,0.365,0.341,0.478,0.000747,0.125,-11.407,0.0401,169.137,0.461,34
+294,Music & Me,5,5fYpLQ3t01PyPmpcKGqY3X,Too Young,spotify:track:5fYpLQ3t01PyPmpcKGqY3X,0.452,0.237,0.189,0.0711,0.288,-15.302,0.0289,95.831,0.14,23
+295,Music & Me,6,4Lmu0By2w5pHiLkKN6Xr44,Doggin' Around,spotify:track:4Lmu0By2w5pHiLkKN6Xr44,0.248,0.403,0.759,0.000246,0.0932,-10.92,0.0524,94.041,0.897,21
+296,Music & Me,7,4tizeXJqI5BP4IU4xJJEJm,Johnny Raven,spotify:track:4tizeXJqI5BP4IU4xJJEJm,0.426,0.67,0.698,0.000354,0.118,-10.498,0.0295,111.809,0.877,20
+297,Music & Me,8,0QGze7AKyvgFCRfABSj0WN,Euphoria,spotify:track:0QGze7AKyvgFCRfABSj0WN,0.154,0.473,0.742,0.00414,0.151,-11.202,0.117,151.037,0.876,21
+298,Music & Me,9,1xwdyB2h7UN7pQyITEm3nK,Morning Glow,spotify:track:1xwdyB2h7UN7pQyITEm3nK,0.225,0.599,0.461,0.000352,0.107,-11.723,0.0244,101.105,0.744,21
+299,Music & Me,10,2e3z3psAcC3YGN53gQxMil,Music And Me,spotify:track:2e3z3psAcC3YGN53gQxMil,0.713,0.357,0.249,8.64e-05,0.0843,-14.27,0.0293,150.067,0.23,40
